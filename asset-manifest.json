@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AndreWill99/qr-generator.git/static/css/main.25be4adc.css",
+    "main.js": "/AndreWill99/qr-generator.git/static/js/main.a3000efb.js",
+    "static/js/453.76be8cdd.chunk.js": "/AndreWill99/qr-generator.git/static/js/453.76be8cdd.chunk.js",
+    "index.html": "/AndreWill99/qr-generator.git/index.html",
+    "main.25be4adc.css.map": "/AndreWill99/qr-generator.git/static/css/main.25be4adc.css.map",
+    "main.a3000efb.js.map": "/AndreWill99/qr-generator.git/static/js/main.a3000efb.js.map",
+    "453.76be8cdd.chunk.js.map": "/AndreWill99/qr-generator.git/static/js/453.76be8cdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25be4adc.css",
+    "static/js/main.a3000efb.js"
+  ]
+}
